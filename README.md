@@ -1,6 +1,6 @@
 # ddc-registers-words
 
-[![Doc](https://img.shields.io/badge/doc-%3Ah%20ddc--registers--words-orange.svg?style=flat-square)](doc/ddc-file.txt)
+[![Doc](https://img.shields.io/badge/doc-%3Ah%20ddc--registers--words-orange.svg?style=flat-square)](doc/ddc-registers-words.txt)
 
 Registers Words Completion for ddc.vim
 
