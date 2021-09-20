@@ -1,1 +1,1 @@
-import "./denops/ddc-sources/registers-words.ts";
+import "./denops/@ddc-sources/registers-words.ts";
